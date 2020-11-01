@@ -11,7 +11,7 @@ $(document).ready(function () {
    console.log(time, text);
   });
 
-  // saving hours to local storage (No idea what is going on)
+  // saving hours to local storage and getting it
   $("#9-text").val(localStorage.getItem("hour-9"));
   $("#10-text").val(localStorage.getItem("hour-10"));
   $("#11-text").val(localStorage.getItem("hour-11"));
