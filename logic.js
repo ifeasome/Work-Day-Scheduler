@@ -24,7 +24,7 @@ $(document).ready(function () {
 
   function hourTracker() {
     let currentHour = moment().hours();
-    // console.log(currentHour);
+    console.log(currentHour);
     //the something needs to come from an array/object
     // let's try looping
     $(".time-block").each(function () {
