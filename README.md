@@ -21,7 +21,8 @@ A simple calendar application that allows a user to save events for each hour of
 ## Mock-up 
 
 The following animation demonstrates the functionality: 
-![Demo](./assets/Work_day_calendar.gif)
+![Demo](https://user-images.githubusercontent.com/71314578/97830373-56ae5280-1c92-11eb-94dd-f0388b21ac6a.gif)
+
 
 
 ## Credits
