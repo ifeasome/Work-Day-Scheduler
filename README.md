@@ -45,4 +45,5 @@ To test application, run it on any HTML5 supported browser, click the save icon 
 ## License 
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
 © 2020 Somelina Obiechina 
